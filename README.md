@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaheli Sadhukhan</h1>
-<h3 align="center">A second year undergrad student who is interested in learning more about technology and exploring new things.</h3>
+<h3 align="center">A curious person who is interested in learning more about technology and exploring new things.</h3>
 
 - 🌱 I’m currently learning **Web development**
 
