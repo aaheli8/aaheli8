@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaheli Sadhukhan</h1>
 <h3 align="center">A curious person who is interested in learning more about technology and exploring new things.</h3>
 
-- 🌱 I’m currently learning **Web development**
-
 - 📫 How to reach me **sadhukhanaheli@gmail.com**
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif">
