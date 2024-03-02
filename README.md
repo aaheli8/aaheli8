@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aaheli Sadhukhan</h1>
-<h3 align="center">A curious person who is interested in learning more about technology and exploring new things.</h3>
+<h3 align="center">A curious person who is interested in learning more about software development and exploring new things.</h3>
 
 - 📫 How to reach me **sadhukhanaheli@gmail.com**
 
